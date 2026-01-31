@@ -1,0 +1,3 @@
+GitHub is a platform where developers store, manage, and share their code online.
+It uses Git for version control, helping track changes and collaborate with others.
+Developers can work together on projects, review code, and contribute from anywhere.
